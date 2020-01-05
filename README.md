@@ -90,3 +90,5 @@ To monitor and manage your application
 ├── pom.xml
 └── README.md
 ```
+## Some Screenshots
+<img width="641" src="https://user-images.githubusercontent.com/48390940/71785619-f0b95600-3001-11ea-91c6-133fca6f10f9.PNG">
