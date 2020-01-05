@@ -30,3 +30,63 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 ```shell
 mvn spring-boot:run
 ```
+### Actuator
+
+To monitor and manage your application
+
+|  URL |  Method |
+|----------|--------------|
+|`http://localhost:8080/welcome`  				| GET |
+|`http://localhost:8080/edit-user`           | GET |
+|`http://localhost:8080/noter-absence`    	| GET |
+|`http://localhost:8080/modifier-absence`    | GET |
+```
+.
+├── Spring Elements
+├── src
+│   └── main
+│       └── java
+│           ├── com.login.login
+│           ├── com.login.login.controller
+│           ├── com.login.login.model
+│           ├── com.login.login.repository
+│           └── com.login.login.services
+│           
+│           
+│          
+├── src
+│   └── main
+│       └── webapp
+            └── resources
+│              └── static
+│                  │   ├── css
+│                  │   │   └── bootstrap.min.css
+│                  │   ├── fonts
+│                  │   |
+|                  |   └── js
+│                  │   
+│                  │   
+│                  ├── templates
+│                  │   └── view.html 
+│                  ├── WEB-INF
+│                  |   └── view
+|                  |      └── welcome.jsp
+                   └──
+│                  
+│                  
+├── src
+│   └── test
+│       └── java
+├── JRE System Library
+├── Maven Dependencies
+├── bin
+├── logs
+│   └── application.log
+├── src
+├── target
+│   └──application-0.0.1-SNAPSHOT
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+└── README.md
+```
