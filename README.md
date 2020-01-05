@@ -92,3 +92,6 @@ To monitor and manage your application
 ```
 ## Some Screenshots
 <img width="641" src="https://user-images.githubusercontent.com/48390940/71785619-f0b95600-3001-11ea-91c6-133fca6f10f9.PNG">
+<img width="641" src="https://user-images.githubusercontent.com/48390940/71785677-bd2afb80-3002-11ea-83e6-9000c6023cb1.PNG">
+<img width="641" src="https://user-images.githubusercontent.com/48390940/71785720-417d7e80-3003-11ea-875a-eb26a2d4a2d6.png">
+
